@@ -1,2 +1,2 @@
-# Black_Jack_Proyect
+# Black_Jack_Project
 Second Challenge Programming Game, Pieran/Udemy.
